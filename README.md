@@ -1,1 +1,0 @@
-# Using-Hypothesis-Testing-to-Assess-the-Impact-of-Forest-Fires-in-Portugal-UCL-STAT0032
